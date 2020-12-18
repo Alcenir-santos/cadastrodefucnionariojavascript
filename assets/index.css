@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+}
+#menu {
+    padding: 1rem;
+}
+#busca {
+    position: relative;
+    float: right;
+}
+#tblUsuarios {
+    text-align: center;
+}
+#avatar{
+    width: 150px;
+    height: 150px;
+}
