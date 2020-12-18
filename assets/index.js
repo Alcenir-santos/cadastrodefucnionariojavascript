@@ -3,7 +3,7 @@ $(function () {
         $('#modalCadatro').modal();
     });
 
-    for (let index = 2; index > 0; index--) {
+    for (let index = 1; index < 3; index++) {
         var url = "https://reqres.in/api/users?page=" + index;
         $.ajax({
             url: url,
